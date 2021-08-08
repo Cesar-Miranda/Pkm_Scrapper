@@ -1,8 +1,9 @@
 # Pkm_Scrapper
- Crawler to scrape all 900 pkmns names and types.
+ This Crawler will scrape 900 pages from bulbapedia.com collecting pokemons names and types.
 
 The output will be a CSV file that looks like this:
 
+'''
 name,type1,type2
 Bulbasaur,Grass,Poison
 Ivysaur,Grass,Poison
@@ -28,3 +29,4 @@ Regidrago,Dragon,Unknown
 Glastrier,Ice,Unknown
 Spectrier,Ghost,Unknown
 Calyrex,Psychic,Grass
+'''
