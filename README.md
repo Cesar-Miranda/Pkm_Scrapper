@@ -3,7 +3,7 @@
 
 The output will be a CSV file that looks like this:
 
-'''
+~~~
 name,type1,type2
 Bulbasaur,Grass,Poison
 Ivysaur,Grass,Poison
@@ -29,4 +29,4 @@ Regidrago,Dragon,Unknown
 Glastrier,Ice,Unknown
 Spectrier,Ghost,Unknown
 Calyrex,Psychic,Grass
-'''
+~~~
