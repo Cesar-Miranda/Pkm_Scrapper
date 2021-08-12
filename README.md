@@ -1,4 +1,4 @@
-# Pkm_Scrapper
+# Pkm_Scrapper_DataAnalysis
  This Crawler will scrape 900 pages from bulbapedia.com collecting pokemons names and types.
 
 The output will be a CSV file that looks like this:
