@@ -30,3 +30,5 @@ Glastrier,Ice,Unknown
 Spectrier,Ghost,Unknown
 Calyrex,Psychic,Grass
 ~~~
+
+I also present a data Analysis using Pandas and Seaborn Libs
