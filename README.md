@@ -1,4 +1,4 @@
-# Pkm_Scrapper
+# Pkm_Scrapper_DataAnalysis
  This Crawler will scrape 900 pages from bulbapedia.com collecting pokemons names and types.
 
 The output will be a CSV file that looks like this:
@@ -30,3 +30,5 @@ Glastrier,Ice,Unknown
 Spectrier,Ghost,Unknown
 Calyrex,Psychic,Grass
 ~~~
+
+I also present a data Analysis using Pandas and Seaborn Libs
